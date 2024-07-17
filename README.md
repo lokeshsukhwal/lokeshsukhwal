@@ -13,9 +13,6 @@
 </p>
 
 
-<h1 align="center">Hi 👋, I'm Lokesh Sukhwal</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lokeshsukhwal&label=Profile%20views&color=0e75b6&style=flat" alt="lokeshsukhwal" /> </p>
 
 <p align="left"> <a href="https://twitter.com/lokeshsukhwal15" target="blank"><img src="https://img.shields.io/twitter/follow/lokeshsukhwal15?logo=twitter&style=for-the-badge" alt="lokeshsukhwal15" /></a> </p>
